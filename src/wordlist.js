@@ -1,0 +1,22 @@
+export const wordList = [
+  "apple", "banana", "car", "dog", "house", "tree", "sun", "moon", "star", "cloud",
+  "rain", "flower", "book", "key", "door", "window", "chair", "table", "bed", "sofa",
+  "lamp", "clock", "watch", "phone", "computer", "laptop", "mouse", "keyboard",
+  "camera", "television", "remote", "guitar", "piano", "drums", "microphone",
+  "headphones", "speaker", "bicycle", "motorcycle", "bus", "train", "airplane", "boat", "ship",
+  "rocket", "helicopter", "road", "street", "bridge", "tunnel", "river", "ocean", "lake",
+  "mountain", "hill", "valley", "forest", "desert", "island", "beach", "rock",
+  "earth", "map", "compass", "hat", "cap", "shirt", "pants",
+  "jeans", "shorts", "skirt", "dress", "shoes", "boots", "socks", "gloves", "scarf",
+  "glasses", "sunglasses", "ring", "necklace", "wallet", "purse", "fork", "knife", "spoon", "pot",
+  "bag", "backpack", "umbrella", "tent", "fire", "lightbulb", "battery", "socket",
+  "toothbrush", "comb", "cat", "bird", "fish", "snake", "lizard", "turtle",
+  "frog", "spider", "ant", "bee", "butterfly", "lion", "tiger", "bear", "elephant",
+  "giraffe", "zebra", "monkey", "penguin", "rabbit", "deer", "alligator",
+  "horse", "cow", "pig", "sheep", "goat", "chicken", "duck", "owl", "eagle", "shark",
+  "whale", "dolphin", "octopus", "crab", "lobster", "shrimp", "squid", "jellyfish", 
+  "seahorse", "food", "pizza", "burger", "fries", "hotdog", "taco", "sushi", 
+  "bowl", "bread", "cheese", "egg", "bacon", "grapes", "strawberry",
+  "pancake", "waffle", "cereal", "milk", "juice", "water", "soda", "mug", "bottle",
+  "cake", "pie", "ice cream", "donut", "cookie", "chocolate", "candy", "popcorn"
+];
